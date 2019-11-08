@@ -2,9 +2,6 @@
  
  > **NOTE** This content is no longer maintained. Visit the [Azure Machine Learning Notebook](https://github.com/Azure/MachineLearningNotebooks) project for sample Jupyter notebooks for ML and deep learning with Azure Machine Learning.
 
-The detailed documentation for this real world scenario includes the step-by-step walk-through:
-https://docs.microsoft.com/en-us/azure/machine-learning/preview/scenario-deep-learning-for-predictive-maintenance
-
 The public GitHub repository for this real world scenario contains all the code samples: https://github.com/Azure/MachineLearningSamples-DeepLearningforPredictiveMaintenance
 
 ## Introduction
@@ -21,7 +18,6 @@ This tutorial uses [keras](https://keras.io/) deep learning library with [Tensor
 
 - An [Azure account](https://azure.microsoft.com/free/) (free trials are available).
 - An installed copy of Azure Machine Learning Workbench with a work space created.
-- Azure Machine Learning Operationalization with a local deployment environment setup and a [model management account](https://docs.microsoft.com/en-us/azure/machine-learning/preview/model-management-overview)
 
 ## Login
 
